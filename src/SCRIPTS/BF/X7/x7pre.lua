@@ -1,4 +1,4 @@
-PageFiles = 
+PageFiles =
 {
     "pids.lua",
     "rates1.lua",
@@ -7,6 +7,9 @@ PageFiles =
     "rates4.lua",
     "filters1.lua",
     "filters2.lua",
+    "kalman.lua",
+  	"imuf1.lua",
+  	"imuf2.lua",
     "pwm.lua",
     "vtx.lua"
 }
