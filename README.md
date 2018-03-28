@@ -5,9 +5,8 @@ Please visit the [releases page](https://github.com/ButterFlight/butterflight-tx
 
 ## Installing
 !! IMPORTANT: DON'T COPY THE CONTENTS OF THIS REPOSITORY ONTO YOUR SDCARD !!
-!! SAVE and DELETE all existant BF script before !!
 
-Unzip the file and copy the 2 folders (BF and SCRIPTS) to the root of the SD card.
+Unzip the file and copy the 2 folders (BFL and SCRIPTS) to the root of the SD card.
 
 ## Adding the script as a telemetry page
 Setting up the script as a telemetry page will enable access at the press of a button.
@@ -16,7 +15,7 @@ Setting up the script as a telemetry page will enable access at the press of a b
 3. Use the [-] button to move the cursor down to [Screen 1] and hit [ENT].
 4. Use the [+] or [-] buttons to select the [Script] option and press [ENT].
 5. Press [-] to move the cursor to the script selection field and hit [ENT].
-6. Select 'bf' and hit [ENT].
+6. Select 'bfl' and hit [ENT].
 7. Long-press [EXIT] to return to your model screen.
 
 To invoke the script, simply long-press the [PAGE] button from the model screen.
