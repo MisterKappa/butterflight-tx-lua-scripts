@@ -5,7 +5,7 @@ PageFiles =
     "rates2.lua",
     "filters.lua",
     "kalman.lua",
-  	"imuf.lua",
+    "imuf.lua",
     "pwm.lua",
     "rx.lua",
     "vtx.lua"
