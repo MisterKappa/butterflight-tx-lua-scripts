@@ -171,7 +171,7 @@ end
 
 local function drawScreen()
     local screen_title = Page.title
-    drawScreenTitle("Butterflight / "..screen_title)
+    drawScreenTitle("Butterflight/"..screen_title)
     for i=1,#(Page.text) do
         local f = Page.text[i]
         local textOptions = (f.to or 0) + globalTextOptions

@@ -1,4 +1,4 @@
-SCRIPT_HOME = "/SCRIPTS/BF"
+SCRIPT_HOME = "/SCRIPTS/BFL"
 
 protocol = assert(loadScript(SCRIPT_HOME.."/protocols.lua"))()
 radio = assert(loadScript(SCRIPT_HOME.."/radios.lua"))()
