@@ -5,7 +5,7 @@ Please visit the [releases page](https://github.com/ButterFlight/butterflight-tx
 
 ## Installing
 !! IMPORTANT: DON'T COPY THE CONTENTS OF THIS REPOSITORY ONTO YOUR SDCARD !!
-!! SAVE and DELETE all existant script before !!
+!! SAVE and DELETE all existant BF script before !!
 
 Unzip the file and copy the 2 folders (BF and SCRIPTS) to the root of the SD card.
 
