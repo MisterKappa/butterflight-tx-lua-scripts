@@ -8,8 +8,7 @@ PageFiles =
     "filters1.lua",
     "filters2.lua",
     "kalman.lua",
-  	"imuf1.lua",
-  	"imuf2.lua",
+  	"imuf.lua",
     "pwm.lua",
     "vtx.lua"
 }
